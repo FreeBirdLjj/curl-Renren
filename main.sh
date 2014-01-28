@@ -11,7 +11,7 @@
 #  REQUIREMENTS: ---
 #          BUGS: ---
 #         NOTES: ---
-#        AUTHOR: YOUR NAME (), 
+#        AUTHOR: Junjie LU 
 #  ORGANIZATION: 
 #       CREATED: 09/01/2013 15:35
 #      REVISION:  ---
